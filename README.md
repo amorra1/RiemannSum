@@ -18,5 +18,5 @@ Project consists of obtaining user input of a function and its bounds. The Riema
 
 <p align="center">Terminal Output:</p>
 <p align="center">
-  <img src="./photos/ChemicalKineticsOutput.png" alt="Alt Text" width="1100" height="300">
+  <img src="./photos/RiemannSumsOutput.png" alt="Alt Text" width="500" height="300">
 </p>
